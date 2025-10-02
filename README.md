@@ -1,0 +1,1 @@
+“A beginner-level data analysis project on IPL dataset, where I explored patterns like player of the match, toss winners, and match results using Pandas and visualized insights through bar plots. The main aim was to practice Python basics, data handling, and visualization.”
